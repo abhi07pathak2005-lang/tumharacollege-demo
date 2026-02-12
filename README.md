@@ -1,4 +1,4 @@
 # tumharacollege-demo
 This is my first Git Hub Repository.
 <br>
-Author- Neeraj pathak
+Author- Neeraj (tumhara college)
